@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tela_Inicial/1.0.0": {
+        "runtime": {
+          "Tela_Inicial.dll": {}
+        },
+        "resources": {
+          "ar-SA/Tela_Inicial.resources.dll": {
+            "locale": "ar-SA"
+          },
+          "pt-BR/Tela_Inicial.resources.dll": {
+            "locale": "pt-BR"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tela_Inicial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
