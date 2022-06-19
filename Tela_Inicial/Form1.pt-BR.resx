@@ -68,12 +68,6 @@
   <data name="btnSinal_Igual.Size" type="System.Drawing.Size, System.Drawing">
     <value>203, 70</value>
   </data>
-  <data name="txtBxTela.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 7</value>
-  </data>
-  <data name="txtBxTela.Size" type="System.Drawing.Size, System.Drawing">
-    <value>405, 24</value>
-  </data>
   <data name="btnNumero_5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -229,6 +223,25 @@
   </data>
   <data name="btnNumero_0.Size" type="System.Drawing.Size, System.Drawing">
     <value>102, 77</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="lblOperador.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblOperador.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Arial Black, 10pt, style=Bold</value>
+  </data>
+  <data name="lblOperador.Size" type="System.Drawing.Size, System.Drawing">
+    <value>0, 19</value>
+  </data>
+  <data name="txtBxTela.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 7</value>
+  </data>
+  <data name="txtBxTela.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="txtBxTela.Size" type="System.Drawing.Size, System.Drawing">
+    <value>405, 24</value>
   </data>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
     <value>8, 17</value>
