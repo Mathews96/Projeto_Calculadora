@@ -17,7 +17,9 @@ namespace Tela_Inicial
     {
         public Calculadora()
         {
-            valor2 = string.Empty;
+            this.valor1 = "0";
+            this.valor2 = "0";
+            this.total = 0;
         }
         public bool cliclouNoOperadorAritmetico { get; set; }
         public string operadorAritmetico { get; set; }
@@ -86,7 +88,7 @@ namespace Tela_Inicial
                     {
                         if (string.IsNullOrEmpty(this.operadorAritmetico))
                         {
-                            this.total = decimal.Parse(this.valor1);
+                            this.total = 0;
                             break;
                         }
                         this.calcular(this.operadorAritmetico, this.valor1, this.valor2);
